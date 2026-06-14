@@ -30,20 +30,5 @@ The goal of this toolkit is to provide simple, readable, and reusable scripts th
 IT-Automation-Scripts/
 │
 ├── powershell/
-│   ├── system-report.ps1
-│   ├── clear-cache.ps1
-│   ├── network-check.ps1
-│   └── README.md
-│
 ├── python/
-│   ├── extract-data.py
-│   ├── automate-files.py
-│   ├── system-info.py
-│   └── README.md
-│
-├── docs/
-│   └── screenshots/
-│
-├── requirements.txt
-├── LICENSE
 └── README.md
